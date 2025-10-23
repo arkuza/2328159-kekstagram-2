@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Арина Кузнецова](https://up.htmlacademy.ru/javascript-individual/2/user/2328159).
-* Наставник:
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/denislopatin/user/1293419).
 ---
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
