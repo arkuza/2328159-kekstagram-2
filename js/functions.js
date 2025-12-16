@@ -1,5 +1,5 @@
 /*  Задача № 1 ( Функция для  проверки длины строки)*/
-function comparephraseLenght(phrase = '', maxlenght = 1) {
+function comparephraseLenght(phrase, maxlenght) {
   return(phrase.length <= maxlenght);
 
 }
